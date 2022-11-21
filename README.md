@@ -1,2 +1,4 @@
-# api_doc_comparator
-API compare text in document
+# Small services
+
+1. API
+2. Compore text in documents
